@@ -9,7 +9,6 @@ __pycache__/
 app/plugins/ui/sceneManagerUi/UIFiles/startConda.bat
 app/plugins/ui/sceneManagerUi/UIFiles/coreResource.py
 app/plugins/ui/sceneManagerUi/UIFiles/startConda.bat
-app/plugins/ui/sceneManagerUi/UIFiles/startConda.bat
 /app/core/model/test.scene
 /app/plugins/ui/sceneManagerUi/UIFiles/startCondaLaptop.bat
 /test.scn
@@ -18,15 +17,10 @@ RAW_0.tif
 app/RAW_1.tif
 sceneTest.scn
 sceneTest
-sceneTest
-sceneTest
-sceneTest
 app/RAW_2.tif
 raw_1.scn
 /.spyproject/workspace.ini
 /app/plugins/ui/image/editor/roiDrawer/
-.spyproject/workspace.ini
-.spyproject/workspace.ini
 .spyproject/workspace.ini
 app/plugins/ui/contrastAdjustment_0.tif
 app/plugins/ui/contrastAdjustment_1.tif
@@ -52,6 +46,3 @@ app/segmentation_contrast.tif
 app/plugins/utils/segmentation_contrast.tif
 *.log
 *.ini
-app/plugins/ui/image/segmentation/segmentationConnector.py
-app/plugins/ui/image/segmentation/segmentationConnector.py
-app/plugins/ui/image/segmentation/segmentationConnector.py
